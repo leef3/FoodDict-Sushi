@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SushiDictionary</string>
+
+    <string name="test_title">Masago</string>
+    <string name="test_ethnic">まさご</string>
+    <string name="test_description">A layer of fish roe on top of white rice wrapped in seaweed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
